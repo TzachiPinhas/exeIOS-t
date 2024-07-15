@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  exeIOS
-//
-//  Created by Student18 on 24/06/2024.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
